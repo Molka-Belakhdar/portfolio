@@ -428,8 +428,6 @@
     <section id="veille">
       <p class="section__text__p1" data-aos="fade-up">Ma veille techno</p>
       <h1 class="title gradient-text" data-aos="fade-up" data-aos-delay="100">Ma Veille Technologique</h1>
-    
-      <!-- Introduction -->
       <div class="text-container" data-aos="fade-up" data-aos-delay="200" style="max-width: 800px; margin: 0 auto 3rem auto; text-align: center;">
         <p style="font-size: 1.1rem; line-height: 1.8;">
           Dans le cadre de mon développement professionnel, je mène une veille active sur 
@@ -438,15 +436,12 @@
           GitHub Copilot et des outils qui transforment le métier de développeur.
         </p>
       </div>
-    
-      <!-- ===== ARTICLES SÉLECTIONNÉS ===== -->
       <p class="section__text__p1" data-aos="fade-up">Ce que j'ai lu</p>
       <h2 class="title gradient-text" data-aos="fade-up" data-aos-delay="100" style="font-size: 2rem; margin-bottom: 2rem;">Articles Sélectionnés</h2>
     
       <div class="experience-details-container">
         <div class="about-containers">
     
-          <!-- CARTE 1 -->
           <div class="details-container color-container card-3d" data-aos="fade-up" data-aos-delay="200">
             <span class="experience-sub-title" style="font-size: 0.75rem; letter-spacing: 1px; text-transform: uppercase;">
               IA & DÉVELOPPEURS – ÉVÉNEMENT
@@ -467,7 +462,6 @@
             </div>
           </div>
     
-          <!-- CARTE 2 -->
           <div class="details-container color-container card-3d" data-aos="fade-up" data-aos-delay="300">
             <span class="experience-sub-title" style="font-size: 0.75rem; letter-spacing: 1px; text-transform: uppercase;">
               IA & DÉVELOPPEURS – IMPACT MÉTIER
@@ -488,7 +482,6 @@
             </div>
           </div>
     
-        <!-- CARTE 3 -->
         <div class="details-container color-container card-3d" data-aos="fade-up" data-aos-delay="400">
           <span class="experience-sub-title" style="font-size: 0.75rem; letter-spacing: 1px; text-transform: uppercase;">
             IA & DÉVELOPPEURS – ENJEUX
@@ -512,25 +505,24 @@
         </div>
       </div>
     
-      <!-- ===== OUTILS DE VEILLE ===== -->
       <p class="section__text__p1" data-aos="fade-up" style="margin-top: 4rem;">Mon stack</p>
       <h2 class="title gradient-text" data-aos="fade-up" data-aos-delay="100" style="font-size: 2rem; margin-bottom: 1rem;">Outils de Veille</h2>
       <p class="section__text__p1" style="margin-bottom: 2rem;">Mon stack pour capter, filtrer et partager les informations stratégiques.</p>
     
       <div class="about-containers" style="max-width: 900px; margin: 0 auto;">
     
-        <!-- Feeds & Alerts — pas besoin de modifier sauf si tu changes d'outil -->
+
         <div class="details-container color-container card-3d" data-aos="flip-left" data-aos-delay="200">
           <img src="code-branch-solid-full.svg" alt="Feeds" class="icon pulse" />
           <h3>Feeds & Alerts</h3>
           <div class="project-description">
             <p>Feedly, Google Alerte</p>
-            <!-- 👇 Tu peux ajouter ou changer les mots-clés ici -->
+      
             <p><strong>Mots-clés :</strong> IA développeur · GitHub Copilot · ChatGPT coding</p>
           </div>
         </div>
     
-        <!-- Méthodes Push — modifier si tu changes de newsletter ou de fréquence -->
+        
         <div class="details-container color-container card-3d" data-aos="flip-left" data-aos-delay="300">
           <img src="school-solid-full.svg" alt="Push" class="icon pulse" />
           <h3>Méthodes Push</h3>
